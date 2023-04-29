@@ -55,8 +55,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "J11oJG", //i.e."johnDoe12Gh"
-  reposLength: 4,
-  specificRepos: [],
+  reposLength: 0,
+  specificRepos: ['All-Projects', 'Data-Preparation', 'Machine-Learning', 'SQL'],
 };
 
 // Leadership SECTION
